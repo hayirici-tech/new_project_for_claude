@@ -1,0 +1,7 @@
+{
+  "name": "cozy-bedroom-plate",
+  "private": true,
+  "type": "module",
+  "scripts": { "build": "node render.mjs && python3 composite.py" },
+  "dependencies": { "three": "0.170.0" }
+}
